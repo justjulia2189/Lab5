@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+thead {
+  text-align: left;
+}
+th,
+td {
+  border-bottom: 1px solid #ccc;
+  padding: 0.5em 0.75em;
+}
